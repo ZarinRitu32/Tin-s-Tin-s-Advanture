@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="image\hom.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\button.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\level1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="run\t1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="run\t2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="run\t3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="run\t4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="run\t5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="run\t6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="run\t7.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="run\t8.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\Untitled.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\t1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\rt1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\rt2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\rt3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\rt4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\rt5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\rt6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\rt7.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\rt8.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\lvl1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\t2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\t3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\t4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\t5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\t6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\t7.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\t8.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\block.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\cken.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\trap.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game_image\Map.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game_image\lvl2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\lvl2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="rend\rend1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="rend\rend2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="rend\rend3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\crock.jpeg">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game_image\crock.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\s1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\s2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\s3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\s4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="char\s5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="image\co.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="D:\game_image\go.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="C:\Users\P R O\Downloads\mainMusic.wav">
+      <Filter>Source Files</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
